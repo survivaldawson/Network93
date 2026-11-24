@@ -436,3 +436,18 @@ footer small {
         max-width: 300px;
     }
 }
+.brand {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    text-decoration: none;
+    color: white;
+    font-size: 22px;
+    font-weight: 800;
+}
+
+.brand img {
+    width: 48px;
+    height: 48px;
+    object-fit: contain;
+    }
